@@ -1,10 +1,10 @@
 div {
-    display: inline;
+    display: inline-block;
 }
 
 span {
-    display: table;
+    display: block;
     width: 200px;
     height: 100px;
-    color: yellow;
+    background-color: yellow;
 }
