@@ -1,0 +1,10 @@
+.qwe {
+    display: inline;
+}
+
+.asd {
+    display: table;
+    width: 200px;
+    height: 100px;
+    color: yellow;
+}
