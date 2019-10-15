@@ -1,8 +1,8 @@
-.qwe {
+div {
     display: inline;
 }
 
-.asd {
+span {
     display: table;
     width: 200px;
     height: 100px;
